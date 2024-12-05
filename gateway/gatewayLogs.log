@@ -1,0 +1,9 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"hello","timestamp":"2024-12-05T12:02:27.108Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"hey","timestamp":"2024-12-05T12:02:27.112Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"error","timestamp":"2024-12-05T12:02:27.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"hello","timestamp":"2024-12-05T12:10:25.447Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"hey","timestamp":"2024-12-05T12:10:25.448Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"error","timestamp":"2024-12-05T12:10:25.448Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"hello","timestamp":"2024-12-05T12:10:26.187Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"hey","timestamp":"2024-12-05T12:10:26.187Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"error","timestamp":"2024-12-05T12:10:26.188Z"}
